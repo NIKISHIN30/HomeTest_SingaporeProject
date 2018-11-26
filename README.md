@@ -2,10 +2,14 @@
 HomeTest
 Background: For any application with a need to build its own social network, "Friends Management" is a common requirement which usually starts off simple but can grow in complexity depending on the application's use case. 
 Usually, applications would start with features like "Friend", "Unfriend", "Block", "Receive Updates" etc.
+
+
 Software:
 1.	Nodejs 
 
 2.	MangoDB
+
+
 Server setup:
 1.	npm install --save-dev nodemon
 
@@ -16,7 +20,9 @@ Server setup:
 4.	npm install intersect
 
 5.	npm install body-parser
+
 Start the server
+
 Run "npm run start" on your terminal to start the server.
  
 Mongo Server
